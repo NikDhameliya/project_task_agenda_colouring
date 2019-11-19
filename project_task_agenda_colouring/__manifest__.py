@@ -5,6 +5,7 @@
     'version': '12.0.0.1.0',
     'summary': 'Kanban Background Color',
     'category': 'Project',
+    'license': 'AGPL-3',
     'description': """
         Set Background color of task kanbanview from color picker,
         Followed : https://www.odoo.yenthevg.com/adding-custom-colors-to-agenda-and-kanban-views/
